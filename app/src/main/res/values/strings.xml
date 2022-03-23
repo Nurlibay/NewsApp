@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">NewsApp</string>
+    <string name="toolbar_title">Articles</string>
+    <string name="news_image">News Image</string>
+    <string name="str_test_date">2020.03.02 654684</string>
+    <string name="article_detail">Article detail</string>
+    <string name="unknown_error">Unknown error</string>
+    <string name="share_article">Share article</string>
+    <string name="share">Share</string>
+</resources>
